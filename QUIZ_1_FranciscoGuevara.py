@@ -44,9 +44,7 @@ for i in range(1,var_n+1):
 		lista.append(ft) 
 
 
-#listaux = []
-#for k in range(0,var_n):  #Uniendo las listas es decir diviendo cada elementos de la lista entre los elementos de la lista 1 y guardandolos en una lista auxiliar
-#	listaux.append(lista[k]/lista1[k])
+
 suma = 0
 for h in range(0,var_n):
 	suma = suma + lista[h]/lista1[h]
